@@ -1,0 +1,31 @@
+opencv-python==4.7.0.68
+mediapipe==0.10.5
+scikit-learn==1.2.0
+
+Processed 60 images for class '0_hello'.
+Processed 96 images for class 'A'.
+Processed 95 images for class 'B'.
+Processed 92 images for class 'C'.
+Processed 95 images for class 'D'.
+Processed 93 images for class 'E'.
+Processed 95 images for class 'F'.
+Processed 82 images for class 'G'.
+Processed 74 images for class 'H'.
+Processed 95 images for class 'I'.
+Processed 86 images for class 'J'.
+Processed 95 images for class 'K'.
+Processed 95 images for class 'L'.
+Processed 94 images for class 'M'.
+Processed 95 images for class 'N'.
+Processed 92 images for class 'O'.
+Processed 41 images for class 'P'.
+Processed 39 images for class 'Q'.
+Processed 77 images for class 'R'.
+Processed 93 images for class 'S'.
+Processed 96 images for class 'T'.
+Processed 96 images for class 'U'.
+Processed 66 images for class 'V'.
+Processed 47 images for class 'W'.
+Processed 94 images for class 'X'.
+Processed 75 images for class 'Y'.
+Processed 92 images for class 'Z'.
